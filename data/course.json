@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Medieval History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Historical Methods"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ]
+  ],
+  "legacy_uid": "7d63d44d-bec3-886f-b03d-894507da333b",
+  "instructors": {
+    "content": [
+      "23def793-7f25-511d-c893-bf84e3cf31dc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7ee3c28b-c4a2-2383-579d-dd8be0a2db28",
+    "website": "21m-220-early-music-fall-2010"
+  },
+  "course_title": "Early Music",
+  "course_description": "This course examines European music from the early Middle Ages until the end of the Renaissance. It includes a chronological survey and intensive study of three topics: chant and its development, music in Italy 1340-1420, and music in Elizabethan England. Instruction focuses on methods and pitfalls in studying music of the distant past. Students' papers, problem sets, and presentations explore lives, genres, and works in depth. Works are studied in facsimile of original notation, and from original manuscripts at MIT, where possible.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.220",
+  "course_image_thumbnail": {
+    "content": "6e89e8ce-0b96-3339-1380-b8c9cf04bdf4",
+    "website": "21m-220-early-music-fall-2010"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Lecture Notes",
+    "Written Assignments with Examples",
+    "Exams"
+  ],
+  "site_uid": "0dd05225-abda-4d71-8b93-30303ec99767",
+  "site_short_id": "21m.220-fall-2010",
+  "title": "Course Metadata"
+}
