@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 39ab3659-c3f3-39f9-6267-3d357b400cbf
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: da4d0d00-38fc-fed9-6cb1-2f755f976b49
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 6462bea0-bfdc-355e-7d12-e7993b646bad
+  name: Listening and Scores
+  pageRef: /pages/listening-and-scores
+  weight: 30
+- identifier: e964c0a2-c177-530b-eeea-6d9fa004f14c
+  name: Lecture Notes
+  pageRef: /video_galleries/lecture-notes
+  weight: 40
+- identifier: 14e729ee-ca5b-f0a8-6acb-afa0ae79be12
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 8a9b5520-d8d7-f738-f2da-ae843685ccca
+  name: Exams
+  pageRef: /pages/exams
+  weight: 60
+- identifier: da35e008-3cb1-1d51-fbff-ca7cc8a6b8e7
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70
